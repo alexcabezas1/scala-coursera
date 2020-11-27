@@ -1,0 +1,29 @@
+[debug] 
+[debug] Initial source changes: 
+[debug] 	removed:Set(/home/acabezas/progfun-assigments/progfun/project/List.scala)
+[debug] 	added: Set()
+[debug] 	modified: Set()
+[debug] Removed products: Set()
+[debug] External API changes: API Changes: Set()
+[debug] Modified binary dependencies: Set()
+[debug] Initial directly invalidated sources: Set(/home/acabezas/progfun-assigments/progfun/project/List.scala)
+[debug] 
+[debug] Sources indirectly invalidated by:
+[debug] 	product: Set()
+[debug] 	binary dep: Set()
+[debug] 	external source: Set()
+[debug] All initially invalidated sources: Set(/home/acabezas/progfun-assigments/progfun/project/List.scala)
+[debug] Recompiling all 0 sources: invalidated sources (1) exceeded 50.0% of all sources
+[debug] Invalidating /home/acabezas/progfun-assigments/progfun/project/List.scala...
+[debug] Invalidating (transitively) by inheritance from /home/acabezas/progfun-assigments/progfun/project/List.scala...
+[debug] Initial set of included nodes: Set(/home/acabezas/progfun-assigments/progfun/project/List.scala)
+[debug] Invalidated by transitive inheritance dependency: Set(/home/acabezas/progfun-assigments/progfun/project/List.scala)
+[debug] The /home/acabezas/progfun-assigments/progfun/project/List.scala source file has the following regular definitions changed:
+[debug] 	notify, Nil, wait, $asInstanceOf, equals, head, asInstanceOf, synchronized, $isInstanceOf, tail, Cons, notifyAll, isInstanceOf, <init>, ==, clone, toString, !=, getClass, List, isEmpty, ne, eq, ##, finalize, hashCode.
+[debug] All member reference dependencies will be considered within this context.
+[debug] New invalidations:
+[debug] 	Set()
+[debug] Initial set of included nodes: Set()
+[debug] Previously invalidated, but (transitively) depend on new invalidations:
+[debug] 	Set()
+[debug] All newly invalidated sources after taking into account (previously) recompiled sources:Set()

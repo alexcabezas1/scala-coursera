@@ -1,0 +1,14 @@
+[0m[[0minfo[0m] [0m[32mFunSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- string take[0m[0m
+[0m[[0minfo[0m] [0m[32m- adding ints[0m[0m
+[0m[[0minfo[0m] [0m[32m- contains is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) contains 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- SingletonSet(2) contains 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- SingletonSet(3) contains 3[0m[0m
+[0m[[0minfo[0m] [0m[32m- union contains all elements of each set[0m[0m
+[0m[[0minfo[0m] [0m[32m- intersect contains all elements that are both in each set[0m[0m
+[0m[[0minfo[0m] [0m[32m- difference contains all elements of a set that are not in the other[0m[0m
+[0m[[0minfo[0m] [0m[32m- select elements of a set that are accepted by a given predicate[0m[0m
+[0m[[0minfo[0m] [0m[32m- wondering if all element within a set satisfy a given predicate[0m[0m
+[0m[[0minfo[0m] [0m[32m- exists at least one element that satisfy a given predicate[0m[0m
+[0m[[0minfo[0m] [0m[32m- transformation by applying a function to each element of a set[0m[0m
